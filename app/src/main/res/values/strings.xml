@@ -1,0 +1,161 @@
+<resources>
+    <string name="app_name">Qualidad Humana</string>
+
+    <string name="quienes_somos">http://www.qualidadhumana.com/index.php/quienes-somos</string>
+    <string name="mision">http://www.qualidadhumana.com/index.php/quienes-somos/mision</string>
+    <string name="vision">http://www.qualidadhumana.com/index.php/quienes-somos/vision</string>
+    <string name="valores">http://www.qualidadhumana.com/index.php/quienes-somos/valores</string>
+    <string name="key_quienes_somos">p</string>
+
+    <string name="inicio">http://www.qualidadhumana.com</string>
+    <string name="img_mision_ok">http://qualidadhumana.com/images/mision_ok.png</string>
+    <string name="img_quines_somos2">http://qualidadhumana.com/images/quienes-somos/quienes-somos2.jpg</string>
+    <string name="img_vision_ok">http://qualidadhumana.com/images/vision_ok.png</string>
+    <string name="img_valores_ok">http://qualidadhumana.com/images/valores_ok.png</string>
+    <string name="imagen">http://qualidadhumana.com/index.php?option=com_content&amp;view=article&amp;id=116&amp;Itemid=622</string>
+
+    <string name="key">span</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="quienes_somos_ti">Quiénes Somos</string>
+    <string name="mision_ti">Misión</string>
+    <string name="vision_ti">Visión</string>
+    <string name="valores_ti">Valores</string>
+
+    <string-array name="inicial">
+        <item>Nosotros</item>
+        <item>Empleos</item>
+        <item>Campus Virtual</item>
+        <item>Busco Chamba</item>
+        <item>Contáctanos</item>
+    </string-array>
+
+    <string-array name="nosotros">
+        <item>Quiénes Somos</item>
+        <item>Misión</item>
+        <item>Visión</item>
+        <item>Valores</item>
+    </string-array>
+
+    <string-array name="parrafos">
+        <item>Somos una organización global especializada en Gestión Estratégica del Recurso Humano.
+            Brindamos soluciones creativas y asesoramiento a organizaciones que buscan potenciar el
+            desarrollo de su personal a través de una adecuada gestión de los sistemas relacionados
+            con sus colaboradores.
+        </item>
+        <item>En <b>Qualidad Humana</b> estamos convencidos de que la Gestión Estratégica del Recurso
+            Humano debe venir acompañada de productividad y rentabilidad, es por eso que
+            desarrollamos, junto a nuestros socios estratégicos, indicadores que les permiten
+            monitorear y medir el impacto generado por su inversión en las diferentes áreas de su
+            organización.
+        </item>
+        <item>Nuestro compromiso está orientado en poner a su disposición al mejor staff de
+            profesionales para obtener su total satisfacción y además, en tiempos en donde las
+            cualidades profesionales se imponen a las personales, <b>Qualidad Humana</b> le asegura una
+            relación con profesionales altamente cualificados con una sólida formación personal, de
+            ética, de valores y respeto.
+        </item>
+        <item>Compartir nuestro conocimiento y experiencia con nuestros socios estratégicos,
+            facilitándoles herramientas para mejorar la gestión de su recurso humano, manteniendo
+            una relación de confianza y fidelidad que les permita crecer como negocio de manera
+            continua y sostenible.
+        </item>
+        <item>Ser una de las 5 consultoras de Gestión Estratégica de Recursos Humanos líderes en
+            países de habla hispana, entendiendo la gestión para el desarrollo de personas como una
+            ciencia cada vez más exacta que nos permite medir el impacto de nuestros servicios,
+            apoyados en una plataforma de excelencia profesional, ética, compromiso, valores y
+            buenas costumbres.
+        </item>
+        <item><b>Excelencia:</b> porque nuestros socios estratégicos merecen un aliado que supere sus
+            expectativas, en <b>Qualidad Humana</b> nos imponemos las metas más altas y los objetivos más
+            retadores que nos llevan a mejorar de forma diaria.
+        </item>
+        <item><b>Empatía:</b> porque no podemos brindar una solución si no comprendemos las necesidades de
+        nuestros socios estratégicos, en <b>Qualidad Humana</b> observamos, analizamos, cuestionamos y en
+        función de nuestro conocimiento y experiencia, proponemos la mejor alternativa de solución.
+        </item>
+        <item><b>Creatividad:</b> porque las alternativas son diversas y cada socio estratégico necesita una
+        respuesta distinta, en <b>Qualidad Humana</b> innovamos la forma de gestionar el recurso humano de
+        su organización proponiéndole soluciones que se ajustarán exactamente a sus necesidades.
+        </item>
+        <item><b>Ética:</b> porque siempre existe una solución que está en el marco de lo correcto y lo adecuado,
+        en <b>Qualidad Humana</b> lo asesoramos evitando cualquier tipo de contingencia futura sin que esto
+        represente ningún sobrecosto para su organización.
+        </item>
+        <item><b>Desarrollo de Personas:</b> porque creemos firmemente que el mayor activo de nuestros socios
+        estratégicos son las personas y que el desarrollo de sus colaboradores trae como consecuencia
+        el crecimiento de la organización, en <b>Qualidad Humana</b> nos preocupamos por desarrollar nuevas
+        habilidades en nuestros colaboradores que les permitan afrontar con éxito todos y cada uno
+        de los retos que se les presenten.</item>
+    </string-array>
+
+    <string name="quienes_somos_text">Somos una organización global especializada en Gestión
+        Estratégica del Recurso Humano. Brindamos soluciones creativas y asesoramiento a
+        organizaciones que buscan potenciar el desarrollo de su personal a través de una adecuada
+        gestión de los sistemas relacionados con sus colaboradores.\u000a\u000d
+        En Qualidad Humana estamos convencidos de que la Gestión Estratégica del Recurso Humano debe venir
+        acompañada de productividad y rentabilidad, es por eso que desarrollamos, junto a nuestros
+        socios estratégicos, indicadores que les permiten monitorear y medir el impacto generado
+        por su inversión en las diferentes áreas de su organización.\u00f4
+        Nuestro compromiso está orientado en poner a su disposición al mejor staff de profesionales para
+        obtener su total satisfacción y además, en tiempos en donde las cualidades profesionales
+        se imponen a las personales, Qualidad Humana le asegura una relación con profesionales
+        altamente cualificados con una sólida formación personal, de ética, de valores y respeto.</string>
+
+    <string name="mision_text">Compartir nuestro conocimiento y experiencia con nuestros socios
+        estratégicos, facilitándoles herramientas para mejorar la gestión de su recurso humano,
+        manteniendo una relación de confianza y fidelidad que les permita crecer como negocio de
+        manera continua y sostenible.</string>
+
+    <string name="vision_text">Ser una de las 5 consultoras de Gestión Estratégica de Recursos
+        Humanos líderes en países de habla hispana, entendiendo la gestión para el desarrollo de
+        personas como una ciencia cada vez más exacta que nos permite medir el impacto de nuestros
+        servicios, apoyados en una plataforma de excelencia profesional, ética, compromiso, valores
+        y buenas costumbres.</string>
+
+    <string name="valores_text">Excelencia: porque nuestros socios estratégicos merecen un aliado
+        que supere sus expectativas, en Qualidad Humana nos imponemos las metas más altas y los
+        objetivos más retadores que nos llevan a mejorar de forma diaria.\n
+        Empatía: porque no podemos brindar una solución si no comprendemos las necesidades de
+        nuestros socios estratégicos, en Qualidad Humana observamos, analizamos, cuestionamos y en
+        función de nuestro conocimiento y experiencia, proponemos la mejor alternativa de solución.\n
+        Creatividad: porque las alternativas son diversas y cada socio estratégico necesita una
+        respuesta distinta, en Qualidad Humana innovamos la forma de gestionar el recurso humano de
+        su organización proponiéndole soluciones que se ajustarán exactamente a sus necesidades.\n
+        Ética: porque siempre existe una solución que está en el marco de lo correcto y lo adecuado,
+        en Qualidad Humana lo asesoramos evitando cualquier tipo de contingencia futura sin que esto
+        represente ningún sobrecosto para su organización.\n
+        Desarrollo de Personas: porque creemos firmemente que el mayor activo de nuestros socios
+        estratégicos son las personas y que el desarrollo de sus colaboradores trae como consecuencia
+        el crecimiento de la organización, en Qualidad Humana nos preocupamos por desarrollar nuevas
+        habilidades en nuestros colaboradores que les permitan afrontar con éxito todos y cada uno
+        de los retos que se les presenten.</string>
+    <string name="title_activity_login">Ingresar</string>
+
+    <!-- Strings related to login -->
+    <string name="error_invalid_email">La dirección de email es inválida</string>
+    <string name="error_invalid_password">La contraseña es muy corta</string>
+    <string name="error_incorrect_password">Contraseña incorrecta</string>
+    <string name="error_field_required">Este campo es obligatorio</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_name">Nombre completo</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="btn_link_to_register">¿No está registrado?</string>
+    <string name="btn_link_to_login">Estoy registrado. Iniciar sesión.</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="btn_logout">Cerrar sesión</string>
+    <string name="name">Nombre completo</string>
+
+    <string name="action_settings">Cerrar Sesión</string>
+
+    <string name="facebook_app_id">347829762327422</string>
+    <string name="fb_login_protocol_scheme">fb347829762327422</string>
+
+
+</resources>
